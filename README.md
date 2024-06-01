@@ -6,12 +6,10 @@
 * [纯python实现微信发文本消息（附完整代码，无需注入，非frida）](https://blog.csdn.net/gefeixun/article/details/137039169?spm=1001.2014.3001.5502)
 
 * 
-* 适配微信版本：3.9.8.12
-* DLL完整文档：https://console-docs.apipost.cn/preview/ddf2d570ad9769aa/2f4d79a1a4b95969
-* 该文档适用于3.9.8.12版本
+* 适配微信版本：3.9.10.16
+* DLL完整文档：[https://console-docs.apipost.cn/preview/ddf2d570ad9769aa/2f4d79a1a4b95969](https://console-docs.apipost.cn/preview/5e9cbd6adda0e9d7/6e88ccb376747013?target_id=426db6aa-1c39-43e9-a78d-c01fb00a5977)
 * 文档正在开发中，功能不断完善
-* 该DLL非http接口，使用的是加载DLL，并调用函数的形式
+* 该DLL为http接口，通过post使用功能
 * DLL可使用易语言，Python，c++等编程语言加载
-* 本DLL可用于开发框架
-* 各个功能都可以自由组合，详情请联系QQ：3122142139
+* 详情请联系QQ：3122142139
 * 文档交流学习使用。
